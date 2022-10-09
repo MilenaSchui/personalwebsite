@@ -1,0 +1,28 @@
+.logo {
+    color: whitesmoke;
+    background-color: navy;
+    display: inline;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.logo-name{
+    font-size: 32px;
+    font-weight: bold;
+    margin: 16px;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.top{
+    text-align: center;
+}
+
+.navigation a{
+color: gray;
+padding: 8px;
+}
